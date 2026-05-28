@@ -16,6 +16,7 @@ A React + Vite movie browsing app powered by the [TMDB API](https://developer.th
 - [Vite](https://vitejs.dev/) — build tool & dev server
 - [React Router 7](https://reactrouter.com/) — routing
 - React Context API — favorites state management
+- [Axios](https://axios-http.com/) — HTTP client
 - [TMDB API](https://developer.themoviedb.org/) — movie data
 - ESLint — linting
 
